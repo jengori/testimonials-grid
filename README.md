@@ -15,4 +15,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/jengori/testimonials-grid
-- Live Site URL: https://jengori.github.io/testimonials-grid/
+- Live Site URL: https://jengori.github.io/testimonials-grid
